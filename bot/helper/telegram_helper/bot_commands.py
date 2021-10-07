@@ -13,5 +13,4 @@ class _BotCommands:
         self.LogCommand = 'log'
         self.SpeedCommand = 'speedtest'
         self.DeleteCommand = 'del'
-
 BotCommands = _BotCommands()
