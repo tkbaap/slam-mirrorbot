@@ -2,6 +2,7 @@ class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
         self.ListCommand = 'list'
+        self.AuthorizedUsersCommand = 'users'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
         self.AddSudoCommand = 'addsudo'
